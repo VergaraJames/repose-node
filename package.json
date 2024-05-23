@@ -1,0 +1,21 @@
+{
+  "name": "repose-node",
+  "version": "1.0.0",
+  "description": "Proyecto Repose - Carlos RAmirez",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "repose-node"
+  },
+  "keywords": [
+    "repose"
+  ],
+  "author": "James Vergara",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
