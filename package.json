@@ -1,8 +1,8 @@
 {
   "name": "repose-node",
   "version": "1.0.0",
-  "description": "Proyecto Repose - Carlos RAmirez",
-  "main": "app.js",
+  "description": "Proyecto Repose - Carlos Ramirez",
+  "main": "index",
   "scripts": {
     "deploy": "gh-pages -d ." 
   },
